@@ -5,6 +5,7 @@ Mobile App With Kotlin
 This project is a movie app I built by following Atıl Samancıoğlu’s Udemy course: “Advanced Mobile App Development with Kotlin.” It was a great opportunity for me to practice modern Android development using Kotlin and Jetpack Compose.
 
 🔍 What Does It Do?
+
 Lists popular movies
 
 Shows detailed movie info
